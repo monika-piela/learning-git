@@ -1,1 +1,1 @@
-print("Pierwszy commit")
+print("Drugi commit")
